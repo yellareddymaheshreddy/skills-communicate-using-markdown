@@ -9,3 +9,8 @@ for(let i=0;i<10;i++){
 console.log("hello");
 }
 ```
+# Task list
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
